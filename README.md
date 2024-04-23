@@ -1,6 +1,6 @@
 # Reinforcement-Learning-for-Active-Structural-Control
 This repository contains the python codes of the paper 
-  > + Panda, J., Chopra, M., Matsagar, V., & Chakraborty, S. (2023). An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations. Computers & Structures, Accepted, in press. [Article]
+  > + Panda, J., Chopra, M., Matsagar, V., & Chakraborty, S. (2024). An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations. Computers & Structures, Vol. 290, 107183. [Article]
 
 # Signal flow diagram of closed loop structure-controller system in PI framework.  
 ![Proportional-Integral state-output feedback](Figure1.png)
@@ -32,8 +32,8 @@ If you use any part of our codes, please cite us at,
   title={ An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations},
   author={Panda, J. and Chopra, M. and Matsagar, V. and Chakraborty, S},
   journal={Computers & Structures},
-  volume={},
-  pages={},
-  year={2023},
+  volume={290},
+  pages={107183},
+  year={2024},
   publisher={Elsevier}
 }
