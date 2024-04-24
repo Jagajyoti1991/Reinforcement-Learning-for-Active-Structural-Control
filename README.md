@@ -17,7 +17,8 @@ A short description of the files is provided below for ease of reading.
   + `RLAlgorithm_8Story_P.ipynb`: This code is for RL-based control algorithm in proportional (P) to state feedback case (Case study II: 8-story benchmark building).
   + `RLAlgorithm_8Story_PI.ipynb`: This code is for RL-based control algorithm in proportional-integral (PI) to state-output feedback (Case study II: 8-story benchmark building).
   + `Validation_8Story_P&PI.ipynb`: This code is for the robust performance of trained RL controllers in P and PI feedback (Section 5.2.2, Figure 11).
-Considered SAC ground motions to validate the robust performance of the trained controllers are placed in the folder '8Story' along with the state-space matrices and updated P and PI controller gains. In case, the location of the mentioned data is changed, the correct path should be given.
+
++ Considered SAC ground motions to validate the robust performance of the trained controllers are placed in the folder '8Story' along with the state-space matrices and updated P and PI controller gains. In case, the location of the mentioned data is changed, the correct path should be given.
 
 # Library support
 The following packages are required to be installed to run the above codes:
